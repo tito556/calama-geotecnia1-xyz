@@ -1,0 +1,51 @@
+# Geotecnia1 — Calama
+
+> Geotechnical engineering services in Calama, Chile.
+
+## Services
+- [Aislacion Sismica](https://calama.geotecnia1.xyz/aislacion-sismica/)
+- [Anclajes](https://calama.geotecnia1.xyz/anclajes/)
+- [Calicatas](https://calama.geotecnia1.xyz/calicatas/)
+- [Cbr Vial](https://calama.geotecnia1.xyz/cbr-vial/)
+- [Cimentaciones](https://calama.geotecnia1.xyz/cimentaciones/)
+- [Columnas Grava](https://calama.geotecnia1.xyz/columnas-grava/)
+- [Densidad Cono Arena](https://calama.geotecnia1.xyz/densidad-cono-arena/)
+- [Ensayo Cpt](https://calama.geotecnia1.xyz/ensayo-cpt/)
+- [Ensayos Proctor](https://calama.geotecnia1.xyz/ensayos-proctor/)
+- [Estabilidad Taludes](https://calama.geotecnia1.xyz/estabilidad-taludes/)
+- [Excavaciones Profundas](https://calama.geotecnia1.xyz/excavaciones-profundas/)
+- [Excavaciones Subterraneo](https://calama.geotecnia1.xyz/excavaciones-subterraneo/)
+- [Exploracion](https://calama.geotecnia1.xyz/exploracion/)
+- [Geotecnia Vial](https://calama.geotecnia1.xyz/geotecnia-vial/)
+- [Granulometria](https://calama.geotecnia1.xyz/granulometria/)
+- [Inyecciones](https://calama.geotecnia1.xyz/inyecciones/)
+- [Laboratorio In Situ](https://calama.geotecnia1.xyz/laboratorio-in-situ/)
+- [Laboratorio Lab](https://calama.geotecnia1.xyz/laboratorio-lab/)
+- [Licuefaccion](https://calama.geotecnia1.xyz/licuefaccion/)
+- [Limites Atterberg](https://calama.geotecnia1.xyz/limites-atterberg/)
+- [Losas Fundacion](https://calama.geotecnia1.xyz/losas-fundacion/)
+- [Masw](https://calama.geotecnia1.xyz/masw/)
+- [Mejoramiento](https://calama.geotecnia1.xyz/mejoramiento/)
+- [Microzonificacion Sismica](https://calama.geotecnia1.xyz/microzonificacion-sismica/)
+- [Monitoreo Excavaciones](https://calama.geotecnia1.xyz/monitoreo-excavaciones/)
+- [Muros Contencion](https://calama.geotecnia1.xyz/muros-contencion/)
+- [Pavimento Flexible](https://calama.geotecnia1.xyz/pavimento-flexible/)
+- [Pavimento Rigido](https://calama.geotecnia1.xyz/pavimento-rigido/)
+- [Permeabilidad In Situ](https://calama.geotecnia1.xyz/permeabilidad-in-situ/)
+- [Pilotes](https://calama.geotecnia1.xyz/pilotes/)
+- [Refraccion Sismica](https://calama.geotecnia1.xyz/refraccion-sismica/)
+- [Resistividad](https://calama.geotecnia1.xyz/resistividad/)
+- [Sismica](https://calama.geotecnia1.xyz/sismica/)
+- [Sondajes Spt](https://calama.geotecnia1.xyz/sondajes-spt/)
+- [Taludes](https://calama.geotecnia1.xyz/taludes/)
+- [Triaxial](https://calama.geotecnia1.xyz/triaxial/)
+- [Tuneles Suelo Blando](https://calama.geotecnia1.xyz/tuneles-suelo-blando/)
+- [Vibrocompactacion](https://calama.geotecnia1.xyz/vibrocompactacion/)
+- [Zapatas](https://calama.geotecnia1.xyz/zapatas/)
+
+## Contact
+- Website: https://calama.geotecnia1.xyz/
+
+## About
+This site provides geotechnical engineering services in Calama, Chile.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
