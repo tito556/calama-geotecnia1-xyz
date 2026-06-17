@@ -2,166 +2,247 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap-0.9">
   <url>
     <loc>https://calama.geotecnia1.xyz/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://calama.geotecnia1.xyz/masw</loc>
+    <loc>https://calama.geotecnia1.xyz/aislacion-sismica/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://calama.geotecnia1.xyz/monitoreo-excavaciones</loc>
+    <loc>https://calama.geotecnia1.xyz/anclajes/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://calama.geotecnia1.xyz/zapatas</loc>
+    <loc>https://calama.geotecnia1.xyz/calicatas/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://calama.geotecnia1.xyz/triaxial</loc>
+    <loc>https://calama.geotecnia1.xyz/cbr-vial/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://calama.geotecnia1.xyz/anclajes</loc>
+    <loc>https://calama.geotecnia1.xyz/cimentaciones/</loc>
+    <lastmod>2026-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://calama.geotecnia1.xyz/densidad-cono-arena</loc>
+    <loc>https://calama.geotecnia1.xyz/columnas-grava/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://calama.geotecnia1.xyz/limites-atterberg</loc>
+    <loc>https://calama.geotecnia1.xyz/densidad-cono-arena/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://calama.geotecnia1.xyz/granulometria</loc>
+    <loc>https://calama.geotecnia1.xyz/ensayo-cpt/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://calama.geotecnia1.xyz/muros-contencion</loc>
+    <loc>https://calama.geotecnia1.xyz/ensayos-proctor/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://calama.geotecnia1.xyz/cbr-vial</loc>
+    <loc>https://calama.geotecnia1.xyz/estabilidad-taludes/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://calama.geotecnia1.xyz/aislacion-sismica</loc>
+    <loc>https://calama.geotecnia1.xyz/excavaciones-profundas/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://calama.geotecnia1.xyz/ensayos-proctor</loc>
+    <loc>https://calama.geotecnia1.xyz/excavaciones-subterraneo/</loc>
+    <lastmod>2026-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://calama.geotecnia1.xyz/permeabilidad-in-situ</loc>
+    <loc>https://calama.geotecnia1.xyz/exploracion/</loc>
+    <lastmod>2026-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://calama.geotecnia1.xyz/excavaciones-profundas</loc>
+    <loc>https://calama.geotecnia1.xyz/geotecnia-vial/</loc>
+    <lastmod>2026-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://calama.geotecnia1.xyz/tuneles-suelo-blando</loc>
+    <loc>https://calama.geotecnia1.xyz/granulometria/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://calama.geotecnia1.xyz/pavimento-rigido</loc>
+    <loc>https://calama.geotecnia1.xyz/inyecciones/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://calama.geotecnia1.xyz/estabilidad-taludes</loc>
+    <loc>https://calama.geotecnia1.xyz/laboratorio-in-situ/</loc>
+    <lastmod>2026-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://calama.geotecnia1.xyz/inyecciones</loc>
+    <loc>https://calama.geotecnia1.xyz/laboratorio-lab/</loc>
+    <lastmod>2026-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://calama.geotecnia1.xyz/licuefaccion</loc>
+    <loc>https://calama.geotecnia1.xyz/licuefaccion/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://calama.geotecnia1.xyz/resistividad</loc>
+    <loc>https://calama.geotecnia1.xyz/limites-atterberg/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://calama.geotecnia1.xyz/calicatas</loc>
+    <loc>https://calama.geotecnia1.xyz/losas-fundacion/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://calama.geotecnia1.xyz/pavimento-flexible</loc>
+    <loc>https://calama.geotecnia1.xyz/masw/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://calama.geotecnia1.xyz/sondajes-spt</loc>
+    <loc>https://calama.geotecnia1.xyz/mejoramiento/</loc>
+    <lastmod>2026-06-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://calama.geotecnia1.xyz/contacto</loc>
+    <loc>https://calama.geotecnia1.xyz/microzonificacion-sismica/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://calama.geotecnia1.xyz/vibrocompactacion</loc>
+    <loc>https://calama.geotecnia1.xyz/monitoreo-excavaciones/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://calama.geotecnia1.xyz/refraccion-sismica</loc>
+    <loc>https://calama.geotecnia1.xyz/muros-contencion/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://calama.geotecnia1.xyz/columnas-grava</loc>
+    <loc>https://calama.geotecnia1.xyz/pavimento-flexible/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://calama.geotecnia1.xyz/ensayo-cpt</loc>
+    <loc>https://calama.geotecnia1.xyz/pavimento-rigido/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://calama.geotecnia1.xyz/microzonificacion-sismica</loc>
+    <loc>https://calama.geotecnia1.xyz/permeabilidad-in-situ/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://calama.geotecnia1.xyz/losas-fundacion</loc>
+    <loc>https://calama.geotecnia1.xyz/pilotes/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://calama.geotecnia1.xyz/pilotes</loc>
+    <loc>https://calama.geotecnia1.xyz/refraccion-sismica/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://calama.geotecnia1.xyz/privacidad</loc>
+    <loc>https://calama.geotecnia1.xyz/resistividad/</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://calama.geotecnia1.xyz/sismica/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://calama.geotecnia1.xyz/sitemap/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://calama.geotecnia1.xyz/sondajes-spt/</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://calama.geotecnia1.xyz/taludes/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://calama.geotecnia1.xyz/triaxial/</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://calama.geotecnia1.xyz/tuneles-suelo-blando/</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://calama.geotecnia1.xyz/vibrocompactacion/</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://calama.geotecnia1.xyz/zapatas/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
